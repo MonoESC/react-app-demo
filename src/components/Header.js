@@ -1,9 +1,6 @@
-import { Component } from "react";
 import logo from '../logo.svg';
 
 function Header({saludos, despedida}){
-
-
 
     return (
         <header className="App-header">
